@@ -1,0 +1,29 @@
+h1 {
+    color: rgb(29, 13, 13);
+}
+
+section {
+    background-image: linear-gradient(to left, red, blue);
+    border: 3px solid rgb(16, 16, 32);
+    border-radius: 20px;
+    border-left: 13px rgb(199, 143, 139) solid;
+    background-color: #FFC8DD;
+}
+
+code {
+    border: 1px solid;
+}
+
+header {
+    margin-bottom: 200px;
+    padding-right: 800px;
+    padding-top: 90px;
+    padding-bottom: 70px;
+    font-size: 50px;
+    border: 2px solid #020101;
+    border-radius: 3px solid rgb(39, 24, 24);
+    height: 70px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+    background-image: linear-gradient(to top, red, blue);
+}
